@@ -1,3 +1,6 @@
+//广义表是一种非线性的数据结构，是线性表的一种推广
+//广义表中放松对表元素的原子限制(表中有表)
+//其中元素为原子或者是一个广义表
 #include<iostream>
 #include<assert.h>
 enum Nodetype{
